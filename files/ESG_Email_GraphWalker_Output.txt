@@ -1,0 +1,117 @@
+{"currentElementName":"["}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"compose new email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email body"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"send email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"v_endNode"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"["}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"open mailbox"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"select email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter forward  receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"v_endNode"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"["}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"create an addressbook for a receiver"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"get receivers public key"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"encrypt mail with receivers public key"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"send email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"v_endNode"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"["}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter autoresponse email body"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email autorespones date interval"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"v_endNode"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"["}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"compose new email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email subject"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"send email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"v_endNode"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"["}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"compose new email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email subject"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email subject"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"sign email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"send email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"v_endNode"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"["}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"create an addressbook for a receiver"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"get alias email addressess of receiver"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"send email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"v_endNode"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"["}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email autorespones date interval"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter autoresponse email body"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email autorespones date interval"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"v_endNode"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"["}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"compose new email"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email subject"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email body"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter email body"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter receivers email address"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"enter alias email addressess of receiver"}
+{"currentElementName":"e_NewEdge"}
+{"currentElementName":"v_endNode"}
